@@ -1,0 +1,10 @@
+# configuration for watertime
+
+user: user@domain.com
+password: secret
+grohe_addr: 11:22:33:44:55:66
+secret: another_secret
+log_file: /home/watertime/watertime.log
+port: 443
+ca_cert: cert.pem
+ca_key: private.key
